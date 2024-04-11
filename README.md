@@ -1,12 +1,12 @@
 # Hello, I'm Evgeny! 👋
 
-🔭 **I'm currently working on**: Personal frontend projects.
-🌱 I'm currently learning: Advanced web development techniques, focusing on JavaScript, React, Vue.js, and deepening my knowledge in CSS. Although I'm relatively new to these technologies, I'm very eager to learn and grow. 
-👯 **Looking to collaborate on**: Frontend development projects, particularly those involving modern JavaScript frameworks. I value collaborative learning and mutual growth in technology.
-🤔 **Seeking help with**: Gaining a deeper understanding of advanced React and Vue.js techniques, CSS animations, and performance optimization.
-💬 **Ask me about**: JavaScript, HTML, CSS, and modern web technologies. I am always open to discussing what I've learned so far and exploring new ideas.
-📫 **How to reach me**: [superlern4@gmail.com]
-😄 **Pronouns**: He/Him
+🔭 **I'm currently working on**: Personal frontend projects.  
+🌱 **I'm currently learning**: Advanced web development techniques, focusing on JavaScript, React, Vue.js, and deepening my knowledge in CSS. Although I'm relatively new to these technologies, I'm very eager to learn and grow.  
+👯 **Looking to collaborate on**: Frontend development projects, particularly those involving modern JavaScript frameworks. I value collaborative learning and mutual growth in technology.  
+🤔 **Seeking help with**: Gaining a deeper understanding of advanced React and Vue.js techniques, CSS animations, and performance optimization.  
+💬 **Ask me about**: JavaScript, HTML, CSS, and modern web technologies. I am always open to discussing what I've learned so far and exploring new ideas.  
+📫 **How to reach me**: [superlern4@gmail.com]  
+😄 **Pronouns**: He/Him  
 ⚡ **Fun fact**: ...
 
 ## My Projects
