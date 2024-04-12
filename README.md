@@ -13,26 +13,28 @@
 ## My Projects
 
 ### Coding Challenges
-- **CodeWars, LeetCode, HackerRank, TopCoder, Exercism, Codingame:** Solutions to programming challenges.
+- **CodeWars, LeetCode, HackerRank, TopCoder, Exercism, Codingame, JavaScript 30:** Solutions to programming challenges.
 
 ### Hackathons and Competitions
 - **Hackathons.com, Devpost, AngelHack, MLH, Idealist, Codingame:** Projects developed during hackathons.
-
+### Problem Solving in React
+    • Daily React Problem 
 ### Web Development Projects
-- **FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, frontend.pro:** Ranging from static sites to full-stack apps.
+- **FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, frontend.pro, Fullstack Open, React Armory:** Ranging from static sites to full-stack apps.
 
 ### Open Source Contributions
 - **Various Contributions:** Participating in open source projects.
 
 ### Design Challenges
-- **CodePen, CSS Battle, 100 Days CSS, PlayCSS:** Showcasing CSS skills and creativity.
+- **CodePen, CSS Battle, 100 Days CSS, PlayCSS, CSS Challenges, Tailwind Battle:** Showcasing CSS skills and creativity.
    - CodePen Portfolio
    - CSS Battle Profile
    - 100 Days CSS Challenges
    - PlayCSS Examples
-
+   - CSS Challenges
+   - Tailwind Battle
 ### Interview Preparation
-- **GeeksforGeeks, LeetCode, HackerRank, CodeSignal, BFE.dev, Pramp, Interviewing.io:** Materials and platforms for interview prep.
+- **GeeksforGeeks, LeetCode, HackerRank, CodeSignal, BFE.dev, Pramp, Interviewing.io,FrontendEval, и Algochurn:** Materials and platforms for interview prep.
 
 ### Personal Projects
 - **Personal Projects:** I am constantly working on new ideas. Details about specific projects will be shared as they develop.
