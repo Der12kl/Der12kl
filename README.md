@@ -27,14 +27,16 @@
 ### Open Source Contributions 🤝
 - **Various Contributions:** Participating in open source projects.
 
-### Design Challenges 🎨
-- **Examples:**
-   - [CodePen Portfolio](#)
-   - [CSS Battle Profile](#)
-   - [100 Days CSS Challenges](#)
-   - [PlayCSS Examples](#)
-   - [CSS Challenges](#)
-   - [Tailwind Battle](#)
+## Design Challenges 🎨
+
+I actively participate in various design challenges to hone my CSS and design skills. Below are some platforms where you can see my work:
+
+- **CodePen**: Here you can find a range of my projects from small snippets to complex animations. [View my CodePen portfolio](#)
+- **CSS Battle**: A place where I compete by trying to replicate targets using as little HTML/CSS as possible. [See my CSS Battle profile](#)
+- **100 Days CSS Challenge**: Daily challenges that helped me improve my CSS skills. [Check out my 100 Days CSS projects](#)
+- **PlayCSS**: A platform for experimenting with creative CSS to solve tasks and puzzles. [Explore my PlayCSS examples](#)
+- **CSS Challenges**: Various CSS coding challenges I've tackled to push the boundaries of what can be done with CSS. [View CSS Challenges](#)
+- **Tailwind Battle**: Similar to CSS Battle, but specifically using TailwindCSS to showcase utility-first CSS designs. [View my Tailwind Battle submissions](#)
 
 ### Interview Preparation 📚
 - **Platforms for prep:** GeeksforGeeks, LeetCode, HackerRank, CodeSignal, BFE.dev, Pramp, Interviewing.io, FrontendEval, Algochurn
