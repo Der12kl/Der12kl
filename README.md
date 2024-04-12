@@ -8,7 +8,7 @@
 - 💬 **Ask Me About:** My journey into web development, my current projects, and the challenges I’ve faced as a new developer.
 - 📫 **How to Reach Me:** [Email me](mailto:superlern4@gmail.com) if you have opportunities or need a passionate newcomer to your team.
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** [Your fun fact here]
+- ⚡ **Fun Fact:** [soon!]
 
 ## My Projects 🚀
 
