@@ -6,7 +6,7 @@
 - 👯 **Looking to Collaborate On:** Frontend projects using modern JavaScript frameworks.
 - 🤔 **Seeking Help With:** Advanced React and Vue.js techniques, CSS animations, and performance optimization.
 - 💬 **Ask Me About:** My journey into web development, my current projects, and the challenges I’ve faced as a new developer.
-- 📫 **How to Reach Me:** [Email me](mailto:superlern4@gmail.com) if you have opportunities or need a passionate newcomer to your team.
+- 📫 **How to Reach Me:** [Email me](mailto:superlern4@gmail.com) and - **Discord**: debnr1, if you have opportunities or need a passionate newcomer to your team.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** [soon!]
 
@@ -53,6 +53,7 @@ I actively participate in various design challenges to hone my CSS and design sk
 - **Updates:** Follow my repositories or use the 'Watch' and 'Star' functions on GitHub for notifications.
 
 ## Let's Connect! 📞
-- **Contact:** [superlern4@gmail.com](mailto:superlern4@gmail.com)
+- **Email:** [superlern4@gmail.com](mailto:superlern4@gmail.com) — Feel free to email me if you have opportunities or need a passionate newcomer to your team.
+- **Discord:** debnr1 — Connect with me on Discord for quick chats and collaboration offers.
 
 Thank you for visiting my profile! 🙏 Feel free to [contact me](mailto:superlern4@gmail.com) if you have any questions or proposals.
