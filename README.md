@@ -23,7 +23,7 @@
 **Daily React Problem**
 
 ## Web Development Projects 🌐
-**Learning through:** Projects built using React, Vue.js, CSS Grid, and Flexbox on platforms like FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, FrontendPro, Fullstack Open, React Armory
+**Learning through:** Projects built using React, Vue.js, CSS Grid, and Flexbox on platforms like FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, Fullstack Open, React Armory
 
 <details>
 <summary><strong>🤝 Open Source Contributions</strong> (Click to expand)</summary>
