@@ -14,23 +14,24 @@
 <summary><strong>🚀 My Projects</strong> (Click to expand)</summary>
 <br>
 
-## Coding Challenges 🧩
+<summary><strong>Coding Challenges 🧩</strong> (Click to expand)</summary>
+<br>
 
-I engage in various coding platforms to sharpen my algorithmic skills and master different programming languages. Here's where you can see my challenge solutions and coding progress:
+I actively participate in various coding platforms to continuously sharpen my programming skills and deepen my understanding of different programming languages. Below, you can see the platforms where I regularly solve problems and my contributions to the community:
 
 **Platforms:**
-- [CodeWars](https://www.codewars.com/users/Der12kl/stats) - View my profile and badges.
-- [LeetCode](https://leetcode.com/Der12kl/) - Focused on data structures and algorithms.
-- [HackerRank](https://www.hackerrank.com/profile/superlern4) - Diverse challenges from basic programming to competitive coding.
-- [TopCoder](https://profiles.topcoder.com/febndi) - Participating in competitive programming contests.
-- [Exercism](https://exercism.org/profiles/Kertoind) - Mastery through practice and mentor feedback.
-- [Codingame](https://www.codingame.com/profile/1c97cad5c511878428066939111596475995055) - Enhancing skills in a gamified environment.
-- [Codesignal](https://app.codesignal.com/profile/der12kl/) - Regular challenges to improve coding efficiency.
+- [![Codewars](https://github.r2v.ch/codewars?user=Der12kl&stroke=blue)](https://www.codewars.com/users/Der12kl/stats) - View my profile and badges.
+- [LeetCode](https://leetcode.com/Der12kl/) - Focused on data structures and algorithms. ![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Der12kl&theme=dark)
+- [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/superlern4) - Diverse challenges from basic programming to competitive coding.
+- [![TopCoder Badge](https://img.shields.io/badge/TopCoder-Profile-blue?style=flat&logo=topcoder)](https://profiles.topcoder.com/febndi) - Participating in competitive programming contests.
+- [![Exercism Badge](https://img.shields.io/badge/Exercism-Profile-brightgreen?style=flat&logo=exercism)](https://exercism.org/profiles/Kertoind) - Mastery through practice and mentor feedback.
+- [![Codingame Badge](https://img.shields.io/badge/Codingame-Profile-yellow?style=flat&logo=codingame)](https://www.codingame.com/profile/1c97cad5c511878428066939111596475995055) - Enhancing skills in a gamified environment.
+- [![Codesignal Badge](https://img.shields.io/badge/Codesignal-Profile-blue?style=flat&logo=codesignal)](https://app.codesignal.com/profile/der12kl/) - Regular challenges to improve coding efficiency.
 
 ## Featured Challenges
 
 ### CodeWars
-- **Sum Mixed Array** - A simple yet illustrative challenge from CodeWars where I demonstrate how to handle mixed data types in an array to perform arithmetic operations. Check out the [detailed solution](https://github.com/Der12kl/CodingChallenges/CodeWars/Sum%20Mixed%20Array.js).
+- **Sum Mixed Array** - A simple yet illustrative challenge from CodeWars where I demonstrate how to handle mixed data types in an array to perform arithmetic operations. Check out the [detailed solution](https://github.com/Der12kl/Der12kl/blob/main/CodingChallenges/CodeWars/Sum%20Mixed%20Array.js).
 
 ### LeetCode
 
@@ -45,14 +46,15 @@ I engage in various coding platforms to sharpen my algorithmic skills and master
 ### Codesignal
 
 **Contribution:**
-Feel free to explore the [CodingChallenges directory](https://github.com/Der12kl/CodingChallenges) where I keep all my solutions. Your contributions, suggestions, or issues are always welcome!
+Feel free to explore the [CodingChallenges directory](https://github.com/Der12kl/Der12kl/tree/main/CodingChallenges) where I keep all my solutions. Your contributions, suggestions, or issues are always welcome!
 
 **Discuss & Collaborate:**
 If you're interested in discussing any challenge or have a query, don't hesitate to reach out. Let's push each other to achieve more!
-
 </details>
 
-## Hackathons and Competitions 🏆
+<details>
+<summary><strong>Hackathons and Competitions 🏆</strong> (Click to expand)</summary>
+<br>
 I actively participate in various hackathons and coding competitions, which enhances my skills in collaborative environments and under pressure. Below are some platforms where I have showcased my solutions and projects:
 
 - **Hackathons.com**: A platform for finding and participating in hackathons worldwide. [View my participation history](#)
@@ -68,14 +70,19 @@ Engaging in these activities not only boosts my technical skills but also improv
 
 **Discussion and Collaboration:**
 I’m always open to discussing techniques, solutions, and experiences from these competitions. If you’re interested in teaming up for a future event or need insights into hackathon participation, feel free to reach out!
-
 </details>
 
-## Problem Solving in React 🔍
+<details>
+<summary><strong>Problem Solving in React 🔍</strong> (Click to expand)</summary>
+<br>
 **Daily React Problem**
+</details>
 
-## Web Development Projects 🌐
+<details>
+<summary><strong>Web Development Projects 🌐</strong> (Click to expand)</summary>
+<br>
 **Learning through:** Projects built using React, Vue.js, CSS Grid, and Flexbox on platforms like FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, Fullstack Open, React Armory
+</details>
 
 <details>
 <summary><strong>🤝 Open Source Contributions</strong> (Click to expand)</summary>
@@ -102,7 +109,9 @@ You can view my fork of the project [here](https://github.com/Der12kl/Portfolio-
 Feel free to check out these repositories to see the work I've contributed towards improving existing projects. I am always open to feedback and collaborative opportunities.
 </details>
 
-## Design Challenges 🎨
+<details>
+<summary><strong>Design Challenges 🎨</strong> (Click to expand)</summary>
+<br>
 I actively participate in various design challenges to hone my CSS and design skills. Below are some platforms where you can see my work:
 - **CodePen**: Here you can find a range of my projects from small snippets to complex animations. [View my CodePen portfolio](#)
 - **CSS Battle**: A place where I compete by trying to replicate targets using as little HTML/CSS as possible. [See my CSS Battle profile](#)
@@ -110,15 +119,18 @@ I actively participate in various design challenges to hone my CSS and design sk
 - **PlayCSS**: A platform for experimenting with creative CSS to solve tasks and puzzles. [Explore my PlayCSS examples](#)
 - **CSS Challenges**: Various CSS coding challenges I've tackled to push the boundaries of what can be done with CSS. [View CSS Challenges](#)
 - **Tailwind Battle**: Similar to CSS Battle, but specifically using TailwindCSS to showcase utility-first CSS designs. [View my Tailwind Battle submissions](#)
-
 </details>
 
-## Interview Preparation 📚
+<details>
+<summary><strong>Interview Preparation 📚</strong> (Click to expand)</summary>
+<br>
 **Platforms for prep:** GeeksforGeeks, LeetCode, HackerRank, CodeSignal, BFE.dev, Pramp, Interviewing.io, FrontendEval, Algochurn
+</details>
 
-## Personal Projects 🛠️
+<details>
+<summary><strong>Personal Projects 🛠️</strong> (Click to expand)</summary>
+<br>
 **Overview:** Constantly working on new ideas. Details about specific projects will be shared as they develop.
-
 </details>
 
 </details>
