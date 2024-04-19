@@ -1,11 +1,11 @@
 # Hello, I'm Evgeny! 👋
 
 ### About Me 📖
-- 🔭 **Currently Working On:** Personal frontend projects to build and showcase my skills.
-- 🌱 **Currently Learning:** Fundamental JavaScript concepts, along with introductory techniques in React and Vue.js. Improving efficiency in front-end coding and testing, with a developing ability in CSS layout design.
-- 👯 **Looking to Collaborate On:** Frontend projects using modern JavaScript frameworks.
-- 🤔 **Seeking Help With:** Advanced React and Vue.js techniques, CSS animations, and performance optimization.
-- 💬 **Ask Me About:** My journey into web development, my current projects, and the challenges I’ve faced as a new developer.
+- 🔭 **Currently Working On:** As a newcomer to the field, I'm building personal frontend projects to enhance my skills. I'm actively engaging in projects through educational platforms like [FreeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [DevChallenges.io](https://devchallenges.io/dashboard), and [Frontend Mentor](https://www.frontendmentor.io/profile/Der12kl). These projects range from a simple portfolio website to a small e-commerce application.
+- 🌱 **Currently Learning:** As a beginner, I'm diving deep into the essentials of web development. My studies encompass fundamental JavaScript concepts, HTML5, CSS3, and exploring frameworks like React and Vue.js. I'm particularly focused on understanding state management in React and learning component design in Vue.js, while also improving my layout and styling skills with advanced CSS techniques.
+- 👯 **Looking to Collaborate On:** I'm eager to collaborate on frontend projects using modern JavaScript frameworks, especially those that challenge me with innovative UI designs.
+- 🤔 **Seeking Help With:** I seek guidance on advanced React techniques to optimize rendering and am keen to master CSS animations to enhance user experiences.
+- 💬 **Ask Me About:** My journey into web development as a new developer, my current projects, and the learning challenges I’ve faced.
 - 📫 **How to Reach Me:** [Email me](mailto:superlern4@gmail.com) and - **Discord**: debnr1, if you have opportunities or need a passionate newcomer to your team.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** [soon!]
@@ -14,6 +14,7 @@
 <summary><strong>🚀 My Projects</strong> (Click to expand)</summary>
 <br>
 
+<details>
 <summary><strong>Coding Challenges 🧩</strong> (Click to expand)</summary>
 <br>
 
@@ -34,16 +35,22 @@ I actively participate in various coding platforms to continuously sharpen my pr
 - **Sum Mixed Array** - A simple yet illustrative challenge from CodeWars where I demonstrate how to handle mixed data types in an array to perform arithmetic operations. Check out the [detailed solution](https://github.com/Der12kl/Der12kl/blob/main/CodingChallenges/CodeWars/Sum%20Mixed%20Array.js).
 
 ### LeetCode
+- **Future Plans** - I aim to solve front-end related challenges on LeetCode that focus on enhancing UI interactions and performance using JavaScript.
 
 ### HackerRank
+- **JavaScript Challenges** - Preparing to tackle JavaScript challenges on HackerRank to strengthen my coding fundamentals and understand complex problems better.
 
 ### TopCoder
+- **Front-End Innovation** - Planning to engage in front-end challenges on TopCoder that require creative UI solutions and efficient code.
 
 ### Exercism
+- **JavaScript Mastery** - Looking forward to completing JavaScript exercises on Exercism to refine my coding techniques and engage with the community for feedback.
 
 ### Codingame
+- **Interactive Projects** - Excited to develop interactive front-end projects on Codingame to apply my JavaScript skills in a gamified environment.
 
 ### Codesignal
+- **Data Structures and Algorithms** - Planning to enhance my JavaScript problem-solving abilities by focusing on data structures and algorithms challenges on CodeSignal.
 
 **Contribution:**
 Feel free to explore the [CodingChallenges directory](https://github.com/Der12kl/Der12kl/tree/main/CodingChallenges) where I keep all my solutions. Your contributions, suggestions, or issues are always welcome!
@@ -57,13 +64,12 @@ If you're interested in discussing any challenge or have a query, don't hesitate
 <br>
 I actively participate in various hackathons and coding competitions, which enhances my skills in collaborative environments and under pressure. Below are some platforms where I have showcased my solutions and projects:
 
-- **Hackathons.com**: A platform for finding and participating in hackathons worldwide. [View my participation history](#)
-- **Devpost**: Where I compete in software competitions and hackathons. [See my Devpost profile](#)
-- **AngelHack**: One of the world’s largest and most diverse hacker communities. [Check out my AngelHack challenges](#)
-- **MLH (Major League Hacking)**: Engaging in university-level hackathons and learning new technologies. [Explore my MLH events](#)
-- **Idealist**: Participating in social impact hackathons. [View my Idealist projects](#)
-- **Codingame**: Combining gaming and coding, I take on exciting and dynamic challenges. [See my Codingame achievements](#)
-- **Topcoder**: Competing in high-level programming and design challenges. [Check out my Topcoder profile](#)
+- **Devpost**: Where I compete in software competitions and hackathons. [See my Devpost profile](https://devpost.com/Der12kl/achievements)
+- **AngelHack**: One of the world’s largest and most diverse hacker communities. I participate in their challenging hackathons, focusing on innovative tech solutions.
+- **MLH (Major League Hacking)**: Engaging in university-level hackathons and learning new technologies. Participating across a range of MLH events has broadened my tech network and skill set.
+- **Idealist**: Participating in social impact hackathons. (I plan to share more details soon)
+- **Codingame**: [![Codingame Badge](https://img.shields.io/badge/Codingame-Profile-yellow?style=flat&logo=codingame)](https://www.codingame.com/profile/1c97cad5c511878428066939111596475995055) - Combining gaming and coding, I take on exciting and dynamic challenges.
+- **Topcoder**: [![TopCoder Badge](https://img.shields.io/badge/TopCoder-Profile-blue?style=flat&logo=topcoder)](https://profiles.topcoder.com/febndi) - Competing in high-level programming and design challenges.
 
 **Engagement and Learning:**
 Engaging in these activities not only boosts my technical skills but also improves my ability to work effectively in teams and adapt to diverse scenarios. Each participation helps me grow as a developer and a problem-solver.
@@ -73,15 +79,21 @@ I’m always open to discussing techniques, solutions, and experiences from thes
 </details>
 
 <details>
-<summary><strong>Problem Solving in React 🔍</strong> (Click to expand)</summary>
-<br>
-**Daily React Problem**
-</details>
-
-<details>
 <summary><strong>Web Development Projects 🌐</strong> (Click to expand)</summary>
 <br>
-**Learning through:** Projects built using React, Vue.js, CSS Grid, and Flexbox on platforms like FreeCodeCamp, TheOdinProject, Frontend Mentor, DevChallenges.io, Fullstack Open, React Armory
+**Learning through:** I am currently working on projects using React, Vue.js, CSS Grid, and Flexbox. Here are some platforms where I plan to build and showcase my work:
+
+- **FreeCodeCamp**: Planning to work on projects like a Survey Form and a Tribute Page. [View profile](https://www.freecodecamp.org/fccf3111dfe-8711-44b1-8948-378351813614)
+- **The Odin Project**: Looking forward to developing projects like a Recipe Book using HTML and CSS. [View repository](https://github.com/Der12kl/Der12kl/tree/main/WebDevelopmentProjects/TheOdinProject)
+- **Frontend Mentor**: Excited to tackle challenges such as building a QR code component. [View profile](https://www.frontendmentor.io/profile/Der12kl)
+- **DevChallenges.io**: Eager to work on responsive web projects and small JavaScript apps. [View profile](https://devchallenges.io/profile/bcbbfbab-6d47-43af-b832-87fb78258463)
+
+I am aiming to improve different aspects of web development, from user interface design to complex state management in React apps through these upcoming projects.
+
+**Feedback and Collaboration:**
+I actively seek feedback and suggestions for improvement on my projects. If you have any thoughts or ideas that could help enhance these projects, or if you're interested in collaborating, please feel free to [contact me](mailto:superlern4@gmail.com) or leave a comment in the repository! Your input is invaluable as I strive to grow and refine my skills.
+
+**Explore all my projects here: [My Web Development Projects Repository](https://github.com/Der12kl/Der12kl/tree/main/WebDevelopmentProjects)**
 </details>
 
 <details>
@@ -113,24 +125,34 @@ Feel free to check out these repositories to see the work I've contributed towar
 <summary><strong>Design Challenges 🎨</strong> (Click to expand)</summary>
 <br>
 I actively participate in various design challenges to hone my CSS and design skills. Below are some platforms where you can see my work:
-- **CodePen**: Here you can find a range of my projects from small snippets to complex animations. [View my CodePen portfolio](#)
-- **CSS Battle**: A place where I compete by trying to replicate targets using as little HTML/CSS as possible. [See my CSS Battle profile](#)
-- **100 Days CSS Challenge**: Daily challenges that helped me improve my CSS skills. [Check out my 100 Days CSS projects](#)
-- **PlayCSS**: A platform for experimenting with creative CSS to solve tasks and puzzles. [Explore my PlayCSS examples](#)
-- **CSS Challenges**: Various CSS coding challenges I've tackled to push the boundaries of what can be done with CSS. [View CSS Challenges](#)
-- **Tailwind Battle**: Similar to CSS Battle, but specifically using TailwindCSS to showcase utility-first CSS designs. [View my Tailwind Battle submissions](#)
+<ul>
+<li><strong>CodePen</strong>: Here you can find a range of my projects from small snippets to complex animations. [View my CodePen portfolio](https://codepen.io/Der12kl)</li>
+<li><strong>CSS Battle</strong>: A place where I compete by trying to replicate targets using as little HTML/CSS as possible. [See my CSS Battle profile](https://cssbattle.dev/player/der12kl)</li>
+<li><strong>100 Days CSS Challenge</strong>: Daily challenges that helped me improve my CSS skills. [Check out my 100 Days CSS projects](https://codepen.io/Der12kl)</li>
+<li><strong>PlayCSS</strong>: A platform for experimenting with creative CSS to solve tasks and puzzles. [Explore my PlayCSS examples](https://playcss.app/profile/der12kl)</li>
+<li><strong>CSS Challenges</strong>: Various CSS coding challenges I've tackled to push the boundaries of what can be done with CSS. [View CSS Challenges](https://css-challenges.com/members/evgeny-1/)</li>
+<li><strong>Tailwind Battle</strong>: Similar to CSS Battle, but specifically using TailwindCSS to showcase utility-first CSS designs. [View my Tailwind Battle submissions](https://www.tailwindbattle.com/player/5ab9e874-7f5f-44d4-8155-381fff2b4a49)</li>
+</ul>
 </details>
 
 <details>
 <summary><strong>Interview Preparation 📚</strong> (Click to expand)</summary>
 <br>
-**Platforms for prep:** GeeksforGeeks, LeetCode, HackerRank, CodeSignal, BFE.dev, Pramp, Interviewing.io, FrontendEval, Algochurn
+**Overview:** Preparing for technical interviews as a frontend developer requires practice on specific challenges encountered in frontend roles. Here are the key platforms I use for interview prep:
+
+- **FrontendEval**: Specializing in challenges that test HTML, CSS, and JavaScript proficiencies, crucial for any frontend role. [View FrontendEval Profile](https://frontendeval.com/profile/Der12kl)
+- **GreatFrontend**: Provides resources and mock interview scenarios specifically geared towards frontend development. [View GreatFrontend Projects](https://github.com/Der12kl/Der12kl/tree/main/InterviewPreparation/GreatFrontend)
+- **Coding Coach**: Offers mentorship and feedback on tackling technical frontend questions and enhancing interview strategies. [View Coding Coach Mentor Profile](https://mentors.codingcoach.io/u/65f9ddb74474770664cd76d9)
+
+These targeted resources help me hone my skills in areas most relevant to frontend interviews, ensuring I'm well-prepared for the specific challenges of my field.
 </details>
 
 <details>
 <summary><strong>Personal Projects 🛠️</strong> (Click to expand)</summary>
 <br>
-**Overview:** Constantly working on new ideas. Details about specific projects will be shared as they develop.
+**Overview:** As a frontend developer, I am constantly exploring and creating new projects that leverage modern web technologies. I focus on React, Vue.js for dynamic user interfaces, and extensively use advanced CSS techniques for styling and animations to ensure responsive and visually appealing designs. My projects often aim to enhance user experience and interaction through clean, efficient code.
+
+While specific details about current projects are still under development, I am dedicated to pushing the boundaries of what can be achieved with frontend technologies. Updates and showcases of these projects will be shared as they evolve, demonstrating both functionality and design elegance.
 </details>
 
 </details>
