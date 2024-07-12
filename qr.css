@@ -1,0 +1,52 @@
+/* Basic body styles to center content on the page*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+/* Styles for the container includes a Qr code and text */
+.container {
+    text-align: center;
+    border: 2px solid hsl(218, 44%, 22%);
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+}
+/* Styles for the Qr code image */
+.qr-code {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+/* Header and paragraph styles */
+h1 {
+    font-size: 22px;
+    color: #1f314f;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+p {
+    font-size: 15px;
+    color: #7d889e;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+/* Media queries for responsive design on devices smaller than 375px */
+@media (max-width: 375px) {
+    .container {
+        padding: 12px;
+    }
+    h1 {
+        font-size: 20px;
+        margin-top: 16px;
+        margin-bottom: 12px;
+    }
+    p {
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+}
