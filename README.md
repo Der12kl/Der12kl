@@ -1,3 +1,4 @@
+
 # QR Code Music Component
 
 This project is a simple QR code component that allows users to scan and access music.
