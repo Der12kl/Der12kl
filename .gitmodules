@@ -1,6 +1,3 @@
 [submodule "OpenSourceContributions/Portfolio-1"]
 	path = OpenSourceContributions/Portfolio-1
 	url = https://github.com/Der12kl/Portfolio-1
-[submodule "WebDevelopmentProjects/FrontendMentor/QRcodecomponent"]
-	path = WebDevelopmentProjects/FrontendMentor/QRcodecomponent
-	url = https://github.com/Der12kl/Der12kl.git
