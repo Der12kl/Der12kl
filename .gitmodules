@@ -4,3 +4,6 @@
 [submodule "WebDevelopmentProjects/FrontendMentor/QRcodecomponent"]
     path = WebDevelopmentProjects/FrontendMentor/QRcodecomponent
     url = https://github.com/Der12kl/QRcodecomponent
+[submodule "QRcodecomponent"]
+	path = QRcodecomponent
+	url = https://github.com/Der12kl/QRcodecomponent
