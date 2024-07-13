@@ -3,4 +3,8 @@
 	url = https://github.com/Der12kl/Portfolio-1
 [submodule "QRcodecomponent"]
     path = WebDevelopmentProjects/FrontendMentor/QRcodecomponent
-    url = https://github.com/Der12kl/QRcodecomponent
+    url = https://github.com/Der12kl/Der12kl.git
+    branch = b8c845e
+[submodule "WebDevelopmentProjects/FrontendMentor/QRcodecomponent"]
+	path = WebDevelopmentProjects/FrontendMentor/QRcodecomponent
+	url = https://github.com/Der12kl/Der12kl.git
