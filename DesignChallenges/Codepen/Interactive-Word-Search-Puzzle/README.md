@@ -1,10 +1,10 @@
 # Word Search Puzzle
 
-This is a simple word search puzzle created with HTML and CSS. The project was developed as part of the "THIS WEEK'S CHALLENGE: Word Puzzles" challenge on CodePen ([View Project](link_to_your_project)).
+This is a simple word search puzzle created with HTML and CSS. The project was developed as part of the "THIS WEEK'S CHALLENGE: Word Puzzles" challenge on CodePen ([View Project](https://codepen.io/Der12kl/pen/eYwpGYd)).
 
 ## Project Description
 
-The Word Search Puzzle is an engaging game challenging users to find specific words within a grid of letters. Players locate words from the list provided below the grid, with discovered words highlighted for easy identification. The interactive puzzle features intricate design elements and a dynamic, animated background that transitions between colors, enhancing visual appeal and the user experience.
+The Word Search Puzzle is an engaging game that challenges users to find specific words within a grid of letters. Players locate words from a list provided below the puzzle grid, with discovered words highlighted for easy identification. The interactive puzzle features intricate design elements and a dynamic, animated background that transitions between colors, enhancing visual appeal and user experience.
 
 ## Features
 
@@ -21,11 +21,10 @@ To use the Word Search Puzzle, open the HTML file in a web browser and start sea
 
 Since the project files are hosted on CodePen and not directly included in this repository, you can access and modify the project by:
 
-1. Opening the CodePen project in your web browser.
-2. Making desired modifications directly within the CodePen editor by adjusting the HTML, CSS, or JavaScript code.
-3. Previewing your changes on CodePen to ensure they align with your vision.
-4. Saving your modifications within the CodePen platform.
-
+Opening the CodePen project in your web browser.
+Making desired modifications directly within the CodePen editor by adjusting the HTML, CSS, or JavaScript code.
+Previewing your changes on CodePen to ensure they align with your vision.
+Saving your modifications within the CodePen platform.
 This repository serves as a reference for the project and contains the link to the CodePen version for convenient viewing and accessibility.
 
 ## Contributing
