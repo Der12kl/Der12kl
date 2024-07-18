@@ -5,3 +5,7 @@
 	path = WebDevelopmentProjects/FrontendMentor/QRcodecomponent
 	url = https://github.com/Der12kl/QRcodecomponent
 	branch = main
+[submodule "PersonalProjects/blog-card"]
+	path = PersonalProjects/blog-card
+	url = https://github.com/Der12kl/blog-card
+	branch = main

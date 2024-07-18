@@ -1,7 +1,7 @@
 # Hello, I'm Evgeny! 👋
 
 ### About Me 📖
-- 🔭 **Currently Working On:** As a newcomer to the field, I'm building personal frontend projects to enhance my skills. I'm actively engaging in projects through educational platforms like [FreeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [DevChallenges.io](https://devchallenges.io/dashboard), and [Frontend Mentor](https://www.frontendmentor.io/profile/Der12kl). These projects range from a simple portfolio website to a small e-commerce application.
+- 🔭 **Currently Working On:** As a newcomer to the field, I'm building personal frontend projects to enhance my skills. I'm actively engaging in projects through educational platforms like [FreeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), and [Frontend Mentor](https://www.frontendmentor.io/profile/Der12kl). These projects range from a simple portfolio website to a small e-commerce application.
 - 🌱 **Currently Learning:** As a beginner, I'm diving deep into the essentials of web development. My studies encompass fundamental JavaScript concepts, HTML5, CSS3, and exploring frameworks like React and Vue.js. I'm particularly focused on understanding state management in React and learning component design in Vue.js, while also improving my layout and styling skills with advanced CSS techniques.
 - 👯 **Looking to Collaborate On:** I'm eager to collaborate on frontend projects using modern JavaScript frameworks, especially those that challenge me with innovative UI designs.
 - 🤔 **Seeking Help With:** I seek guidance on advanced React techniques to optimize rendering and am keen to master CSS animations to enhance user experiences.
@@ -86,7 +86,6 @@ I’m always open to discussing techniques, solutions, and experiences from thes
 - **FreeCodeCamp**: Planning to work on projects like a Survey Form and a Tribute Page. [View profile](https://www.freecodecamp.org/fccf3111dfe-8711-44b1-8948-378351813614)
 - **The Odin Project**: Looking forward to developing projects like a Recipe Book using HTML and CSS. [View repository](https://github.com/Der12kl/Der12kl/tree/main/WebDevelopmentProjects/TheOdinProject)
 - **Frontend Mentor**: Excited to tackle challenges such as building a QR code component. [View profile](https://www.frontendmentor.io/profile/Der12kl)
-- **DevChallenges.io**: Eager to work on responsive web projects and small JavaScript apps. [View profile](https://devchallenges.io/profile/bcbbfbab-6d47-43af-b832-87fb78258463)
 
 I am aiming to improve different aspects of web development, from user interface design to complex state management in React apps through these upcoming projects.
 
