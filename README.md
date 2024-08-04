@@ -32,7 +32,7 @@ I actively participate in various coding platforms to continuously sharpen my pr
 ## Featured Challenges
 
 ### CodeWars
-- **Sum Mixed Array** - A simple yet illustrative challenge from CodeWars where I demonstrate how to handle mixed data types in an array to perform arithmetic operations. Check out the [detailed solution](https://github.com/Der12kl/Der12kl/blob/main/CodingChallenges/CodeWars/Sum%20Mixed%20Array.js).
+- **Sum Mixed Array** - A simple yet illustrative challenge from CodeWars where I demonstrate how to handle mixed data types in an array to perform arithmetic operations. Check out the [detailed solution](https://github.com/Der12kl/Der12kl/blob/new-main-branch/CodingChallenges/CodeWars/Sum%20Mixed%20Array.js).
 
 ### LeetCode
 - **Future Plans** - I aim to solve front-end related challenges on LeetCode that focus on enhancing UI interactions and performance using JavaScript.
@@ -53,7 +53,7 @@ I actively participate in various coding platforms to continuously sharpen my pr
 - **Data Structures and Algorithms** - Planning to enhance my JavaScript problem-solving abilities by focusing on data structures and algorithms challenges on CodeSignal.
 
 **Contribution:**
-Feel free to explore the [CodingChallenges directory](https://github.com/Der12kl/Der12kl/tree/main/CodingChallenges) where I keep all my solutions. Your contributions, suggestions, or issues are always welcome!
+Feel free to explore the [Coding Challenges directory](https://github.com/Der12kl/Der12kl/tree/new-main-branch/CodingChallenges) where I keep all my solutions. Your contributions, suggestions, or issues are always welcome!
 
 **Discuss & Collaborate:**
 If you're interested in discussing any challenge or have a query, don't hesitate to reach out. Let's push each other to achieve more!
