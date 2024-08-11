@@ -37,5 +37,13 @@ Below is a list of challenges I have completed along with brief descriptions and
 - **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
 - **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
 
+### Opposites Attract
+- **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
+- **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
+
+### Opposites Attract
+- **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
+- **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
+
 ## Contribution
 Feel free to fork this repository if you find any problems or if you want to contribute improvements to the solutions.
