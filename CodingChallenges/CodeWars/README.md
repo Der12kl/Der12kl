@@ -37,13 +37,13 @@ Below is a list of challenges I have completed along with brief descriptions and
 - **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
 - **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
 
-### Opposites Attract
-- **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
-- **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
+### Square(n) Sum
+- **Description**: Complete the square sum function so that it squares each number passed into it and then sums the results together.
+- **Solution**: [Square(n) Sum.js](./Square(n)%20Sum.js) 
 
-### Opposites Attract
-- **Description**: Timmy & Sarah think they are in love. To determine if they are in love, they check if one flower has an even number of petals and the other has an odd number of petals. Write a function that takes the number of petals for each flower and returns true if one is even and the other is odd, false otherwise.
-- **Solution**: [Opposites Attract.js](./Opposites%20Attract.js) 
+### Reverse List Order
+- **Description**: In this kata you will create a function that takes in a list and returns a list with the reverse order.
+- **Solution**: [Reverse List Order.js](./Reverse%20List%20Order.js) 
 
 ## Contribution
 Feel free to fork this repository if you find any problems or if you want to contribute improvements to the solutions.
