@@ -89,5 +89,35 @@ Below is a list of challenges I have completed along with brief descriptions and
   
 - **Solution**: [Rock Paper Scissors!.js](./Rock%20Paper%20Scissors!.js) 
 
+### Sentence Smash
+- **Description**: Sentence Smash Write a function that takes an array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence! Example ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
+  
+- **Solution**: [Sentence Smash.js](./Sentence%20Smash.js) 
+
+### Convert a String to a Number!
+- **Description**: We need a function that can transform a string into a number. What ways of achieving this do you know? Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number. Examples "1234" --> 1234 "605"  --> 605 "1405" --> 1405 "-7" --> -7
+  
+- **Solution**: [Convert a String to a Number!.js](./Convert%20a%20String%20to%20a%20Number!.js) 
+
+### Keep up the hoop
+- **Description**: Alex just got a new hula hoop, he loves it but feels discouraged because his little brother is better than him. Write a program where Alex can input (n) how many times the hoop goes round and it will return him an encouraging message: If Alex gets 10 or more hoops, return the string "Great, now move on to tricks". If he doesn't get 10 hoops, return the string "Keep at it until you get it".
+  
+- **Solution**: [Keep up the hoop.js](./Keep%20up%20the%20hoop.js) 
+
+### Grasshopper - Grade book
+- **Description**: Grade book Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade. Numerical Score	Letter Grade 90 <= score <= 100	'A' 80 <= score < 90	'B' 70 <= score < 80	'C' 60 <= score < 70	'D' 0 <= score < 60	'F' Tested values are all between 0 and 100. Theres is no need to check for negative values or values greater than 100.
+  
+- **Solution**: [Grasshopper - Grade book.js](./Grasshopper%20-%20Grade%20book.js) 
+
+### Beginner Series #2 Clock
+- **Description**: Clock shows h hours, m minutes and s seconds after midnight. Your task is to write a function which returns the time since midnight in milliseconds. Example: h = 0 m = 1 s = 1 result = 61000 Input constraints: 0 <= h <= 23 0 <= m <= 59 0 <= s <= 59
+  
+- **Solution**: [Beginner Series 2 Clock.js](./Beginner%20Series%202%20Clock.js) 
+
+### Basic Mathematical Operations
+- **Description**: Your task is to create a function that does four basic mathematical operations. The function should take three arguments - operation(string/char), value1(number), value2(number). The function should return result of numbers after applying the chosen operation. Examples(Operator, value1, value2) --> output ('+', 4, 7) --> 11 ('-', 15, 18) --> -3 ('*', 5, 5) --> 25 ('/', 49, 7) --> 7
+  
+- **Solution**: [Basic Mathematical Operations.js](./Basic%20Mathematical%20Operations.js) 
+
 ## Contribution
 Feel free to fork this repository if you find any problems or if you want to contribute improvements to the solutions.
