@@ -1,4 +1,4 @@
-# Hello, I'm Evgeny! 👋
+# Hello, I'm a frontend developer passionate about clean HTML/CSS and accessibility.
 
 ### About Me 📖
 - 🔭 **Currently Working On:** As a newcomer to the field, I'm building personal frontend projects to enhance my skills. I'm actively engaging in projects through educational platforms like [FreeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), and [Frontend Mentor](https://www.frontendmentor.io/profile/Der12kl). These projects range from a simple portfolio website to a small e-commerce application.
@@ -165,7 +165,4 @@ While specific details about current projects are still under development, I am 
 - **Updates:** Follow my repositories or use the 'Watch' and 'Star' functions on GitHub for notifications.
 
 ## Let's Connect! 📞
-- **Email:** [superlern4@gmail.com](mailto:superlern4@gmail.com) — Feel free to email me if you have opportunities or need a passionate newcomer to your team.
-- **Discord:** debnr1 — Connect with me on Discord for quick chats and collaboration offers.
 
-Thank you for visiting my profile! 🙏 Feel free to [contact me](mailto:superlern4@gmail.com) if you have any questions or proposals.
